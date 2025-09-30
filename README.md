@@ -1,6 +1,8 @@
 # Revolutionizing Global Network Security with Palo Alto Prisma Access SASE  
 ### Case Study: Hela Apparel Holdings PLC  
-**Role:** Lead Network & Security Engineer (AcSys Networks)  
+**Role:** Lead Network & Security Engineer (AcSys Networks) 
+<span style="color:blue">**Role:** Lead Network & Security Engineer (AcSys Networks)</span>
+
 
 ---
 🔗 [Hela Apparel Holdings PLC Website](https://www.helaclothing.com)  
@@ -24,7 +26,7 @@ The project aimed to unify global security, simplify firewall management, and se
 ---
 
 ## 🛠️ Tailored Solution
-We implemented **Palo Alto Prisma Access SASE** as a **single-vendor cloud-delivered security framework**, integrated with Hela’s **Azure Cloud** infrastructure.  
+Implemented **Palo Alto Prisma Access SASE** as a **single-vendor cloud-delivered security framework**, integrated with Hela’s **Azure Cloud** infrastructure.  
 
 **Key design elements:**  
 - **Azure AD SAML SSO** for 2FA and role-based access.  
