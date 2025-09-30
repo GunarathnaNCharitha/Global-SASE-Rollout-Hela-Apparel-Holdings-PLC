@@ -46,7 +46,7 @@ We implemented **Palo Alto Prisma Access SASE** as a **single-vendor cloud-deliv
 
 ## 📊 Outcomes & Benefits
 - **50% cost savings** by removing redundant remote firewalls.  
-- **35% fewer support tickets** in first 30 days (user VPN issues).  
+- **Reduced VPN-related support** tickets by 35% within the first month after deployment
 - **28% latency reduction** to critical apps (lab validation).  
 - **Consistent global security posture** with Zero Trust enforcement.  
 - **Streamlined operations** with single-pane management in Panorama.  
