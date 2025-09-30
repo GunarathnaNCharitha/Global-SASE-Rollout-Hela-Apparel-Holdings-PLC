@@ -1,10 +1,3 @@
-📄 Edited Project Highlights (CV-Ready)
-
-Key Projects (full case studies on GitHub: github.com/yourusername
-)
-
-https://github.com/GunarathnaNCharitha
-
 # Revolutionizing Global Network Security with Palo Alto Prisma Access SASE  
 ### Case Study: Hela Apparel Holdings PLC  
 **Role:** Lead Network & Security Engineer (AcSys Networks)  
