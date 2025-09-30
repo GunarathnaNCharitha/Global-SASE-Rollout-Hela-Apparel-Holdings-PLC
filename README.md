@@ -1,11 +1,12 @@
 # Revolutionizing Global Network Security with Palo Alto Prisma Access SASE  
 ### Case Study: Hela Apparel Holdings PLC  
-### **Role:** Lead Network & Security Engineer (AcSys Networks)  
-![Role](https://img.shields.io/badge/Lead%20Engineer-Network%20%26%20Security-blue)
+<p>
+  <img src="https://img.shields.io/badge/Role-Lead%20Network%20%26%20Security%20Engineer-blue" width="350">
+</p>
 
 
 ---
-🔗 [Hela Apparel Holdings PLC Website](https://www.helaclothing.com)  
+🔗 [Hela Apparel Holdings PLC Website](https://www.helaclothing.com/)  
 
 ---
 
