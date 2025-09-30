@@ -12,7 +12,7 @@
 ---
 
 ## Project Overview
-As the **Lead Engineer** at AcSys Networks, I spearheaded the design and deployment of **Palo Alto Prisma Access SASE** for **Hela Apparel Holdings PLC**, a global apparel manufacturer with operations in **Sri Lanka, Kenya, Ethiopia, Egypt, the US, UK, and France**.  
+As the **Lead Engineer** at AcSys Networks, I spearheaded the design and deployment of **Palo Alto Prisma Access SASE** for **Hela Apparel Holdings PLC**, a global apparel manufacturer with operations in **Sri Lanka, Kenya, Ethiopia and Egypt**.  
 
 The project aimed to unify global security, simplify firewall management, and secure a hybrid workforce of 14,000 employees across multiple geographies.  
 
@@ -48,7 +48,7 @@ Implemented **Palo Alto Prisma Access SASE** as a **single-vendor cloud-delivere
 
 ---
 
-## 📊 Outcomes & Benefits
+## Outcomes & Benefits
 - **50% cost savings** by removing redundant remote firewalls.  
 - **35% reduction** in VPN-related support tickets within the first month of deployment.
 - **28% latency reduction** to critical apps (lab validation).  
