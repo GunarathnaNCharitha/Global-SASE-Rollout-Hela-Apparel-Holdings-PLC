@@ -1,7 +1,6 @@
 # Revolutionizing Global Network Security with Palo Alto Prisma Access SASE  
 ### Case Study: Hela Apparel Holdings PLC  
 **Role:** Lead Network & Security Engineer (AcSys Networks) 
-<span style="color:blue">**Role:** Lead Network & Security Engineer (AcSys Networks)</span>
 
 
 ---
@@ -48,7 +47,7 @@ Implemented **Palo Alto Prisma Access SASE** as a **single-vendor cloud-delivere
 
 ## 📊 Outcomes & Benefits
 - **50% cost savings** by removing redundant remote firewalls.  
-- **Reduced VPN-related support** tickets by 35% within the first month after deployment
+- **35% reduction** in VPN-related support tickets within the first month of deployment.
 - **28% latency reduction** to critical apps (lab validation).  
 - **Consistent global security posture** with Zero Trust enforcement.  
 - **Streamlined operations** with single-pane management in Panorama.  
