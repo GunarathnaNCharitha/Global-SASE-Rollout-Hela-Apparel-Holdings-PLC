@@ -6,7 +6,7 @@
 
 
 ---
-🔗 [Hela Apparel Holdings PLC Website](https://www.helaclothing.com/)  
+🔗 [Hela Apparel Holdings PLC Website](https://www.helaclothing.com)  
 
 <img src="https://img.shields.io/badge/Sanitized-All%20configs%2C%20IPs%20%26%20diagrams%20are%20sanitized.%20No%20customer%20data%20exposed.-red" width="600">
 
