@@ -1,4 +1,4 @@
-# Revolutionizing Global Network Security with Palo Alto Prisma Access SASE  
+# Revolutionizing Global Network Security with Palo Alto Prisma Access SASE
 ### Case Study: Hela Apparel Holdings PLC  
 <p>
   <img src="https://img.shields.io/badge/Role-Lead%20Network%20%26%20Security%20Engineer-blue" width="350">
