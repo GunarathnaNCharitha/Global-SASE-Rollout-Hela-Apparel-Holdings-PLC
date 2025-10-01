@@ -11,6 +11,15 @@
 > [!IMPORTANT]  
 **All configs, IPs, and diagrams in this repo are sanitized. No customer data is exposed.**
 
+
+![Sanitized](https://img.shields.io/badge/Sanitized-All%20configs%2C%20IPs%20%26%20diagrams%20are%20sanitized.%20No%20customer%20data%20exposed.-red)
+![Sanitized](https://img.shields.io/badge/Info-All%20configs%2C%20IPs%20%26%20diagrams%20are%20sanitized.%20No%20customer%20data%20exposed.-blue)
+![Sanitized](https://img.shields.io/badge/Notice-All%20configs%2C%20IPs%20%26%20diagrams%20are%20sanitized.%20No%20customer%20data%20exposed.-green)
+
+<img src="https://img.shields.io/badge/Sanitized-All%20configs%2C%20IPs%20%26%20diagrams%20are%20sanitized.%20No%20customer%20data%20exposed.-red" width="600">
+<img src="https://img.shields.io/badge/Info-All%20configs%2C%20IPs%20%26%20diagrams%20are%20sanitized.%20No%20customer%20data%20exposed.-blue" width="600">
+<img src="https://img.shields.io/badge/Notice-All%20configs%2C%20IPs%20%26%20diagrams%20are%20sanitized.%20No%20customer%20data%20exposed.-green" width="600">
+
 ---
 
 ## Project Overview
